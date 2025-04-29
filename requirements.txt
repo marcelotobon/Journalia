@@ -1,0 +1,11 @@
+openai
+streamlit
+python-dotenv
+dotenv
+fpdf
+os
+json
+datetime
+re
+uuid
+flask
